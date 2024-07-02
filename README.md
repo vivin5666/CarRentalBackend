@@ -1,6 +1,6 @@
 # About the Website
 
-### Welcome to Project Management Tool, a management tool developed by me using the MERN stack (MongoDB, Express.js, React, and Node.js). This tool is designed to help individuals manage their projects more efficiently and effectively.
+### Welcome to Car-Rental, a car rentl developed by me using the MERN stack (MongoDB, Express.js, React, and Node.js). This tool is designed to help individuals manage their projects more efficiently and effectively.
 
 ### Features :-
 
