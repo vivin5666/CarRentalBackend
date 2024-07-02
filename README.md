@@ -1,50 +1,30 @@
 # About the Website
 
-### Welcome to Car-Rental, a car rentl developed by me using the MERN stack (MongoDB, Express.js, React, and Node.js). This tool is designed to help individuals manage their projects more efficiently and effectively.
+### Welcome to Car-Rental, a car rental developed by me using the MERN stack (MongoDB, Express.js, React, and Node.js). This tool is designed to help individuals manage their projects more efficiently and effectively. This website designed to allow users to browse available cars, make reservations, and manage their bookings. It provides an interface for both customers and administrators to interact with the system.
 
 ### Features :-
 
-### Secure Access :-
-Only authorized users can access the web app.
-Secure Google login integration for easy and safe sign-in.
-Task Details
-View comprehensive task details including project name, description, technologies used, and deadlines. Handle your projects with a clear view of all essential information.
+* User Registration and Authentication: Users can create accounts, log in, and manage their profiles.
+* Car Listing: Display available cars with details such as make, model, year, and rental price.
+* Booking System: Users can select cars, choose rental dates, and make reservations.
+* Admin Dashboard: Administrators can add, edit, or remove cars from the inventory. They can also manage user bookings.
+* Search and Filter: Users can search for cars based on various criteria such as car type, price range.
+* Responsive Design: The website is designed to be mobile-friendly and accessible on different devices.
 
-### Task Organization :-
-Filter and organize tasks by categories, deadlines, descriptions, status, and priority. Easily find and manage tasks based on your specific needs and preferences.
+### Usage :-
 
-### Project Management :-
-Create, update, delete, and view projects. Access detailed project information including title, description, category, deadlines, and available actions.
+* User: Sign up or log in to browse cars, make reservations, and manage bookings.
+* Admin: Log in to access the admin dashboard to manage cars and bookings.
 
-### CRUD Operations :-
-Boards: Create new project boards, view existing boards, update board details, and delete boards that are no longer needed.
-Sections: Organize tasks within boards by creating sections. Update section details and delete them as required.
-Tasks: Add new tasks to sections, view task details, update task information, and delete tasks to keep your project board clean and relevant.
-Progress Monitoring
-Monitor project progress with intuitive dashboards and detailed reports. Receive alerts for approaching deadlines, including today's deadlines and tasks due within one week.
-
-### Dashboard Features :-
-Contains tables to download individual reports of projects if the task status is closed.
-Includes a calendar to view and manage deadlines and important dates.
-Update user profile information such as username, password, and profile picture.
-Reporting and Documentation
-Generate comprehensive reports at the end of a project if the status is closed. Convert reports into documentation and download them for future reference. Download overall tasks for complete project documentation.
-
-### Kanban Board Style :-
-Utilize a Kanban board style interface for visual project management. Drag and drop tasks between sections to streamline your workflow.
-
-### Theme Toggle :-
-Switch between light and dark themes to suit your preference and working environment.
-
-## Base URL - https://project-management-tool-mern.netlify.app/
+## Base URL - https://lucky-tiramisu-5aa44c.netlify.app/
 
 ### 🔖Endpoints - Public Routes
 
 ### ➡️ Login User
-URL - https://project-management-tool-mern.netlify.app/signin
+URL - https://lucky-tiramisu-5aa44c.netlify.app/auth/login
 
 ### ➡️ Register User
-URL - https://project-management-tool-mern.netlify.app/signup
+URL - https://lucky-tiramisu-5aa44c.netlify.app/auth/register
 
 ### ➡️ About Page
 URL - https://project-management-tool-mern.netlify.app/about
