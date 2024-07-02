@@ -1,6 +1,6 @@
 # About the Website
 
-### Welcome to Car-Rental, a car rental developed by me using the MERN stack (MongoDB, Express.js, React, and Node.js). This tool is designed to help individuals manage their projects more efficiently and effectively. This website designed to allow users to browse available cars, make reservations, and manage their bookings. It provides an interface for both customers and administrators to interact with the system.
+Welcome to Car-Rental, a car rental developed by me using the MERN stack (MongoDB, Express.js, React, and Node.js). This tool is designed to help individuals manage their projects more efficiently and effectively. This website designed to allow users to browse available cars, make reservations, and manage their bookings. It provides an interface for both customers and administrators to interact with the system.
 
 ### Features :-
 
